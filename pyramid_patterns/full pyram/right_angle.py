@@ -27,5 +27,5 @@
 n = int(input("Enter rows: "))
 for i in range(1, n + 1):  # Loop through rows
     for j in range(i):  # Loop through columns
-        print("*", end=" ")  # Print asterisk without newline
+        print( end=" ",)  # Print asterisk without newline
     print()  # Print newline at the end of each row

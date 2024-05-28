@@ -16,3 +16,10 @@ for i in range (n):
        
     print()    
       
+      # output
+#       input number :5
+#     *
+#    ***
+#   *****
+#  *******
+# *********

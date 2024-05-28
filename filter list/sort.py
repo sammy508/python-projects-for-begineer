@@ -15,3 +15,6 @@ my_list = [
 sorted_list = sorted(my_list, key= lambda x: list(x.keys())[0])
 
 print(sorted_list)
+
+# output
+# [{'a': 2}, {'b': 5}, {'c': 3}, {'d': 10}, {'e': 8}]

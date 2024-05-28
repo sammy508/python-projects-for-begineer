@@ -7,3 +7,6 @@ filterd_list = list(filter(lambda x: x%2 ==0, my_list))
 
 print(my_list)
 print(filterd_list)
+
+# list after filter
+# [2, 4, 6, 8, 14]
